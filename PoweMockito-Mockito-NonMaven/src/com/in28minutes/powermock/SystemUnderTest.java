@@ -5,7 +5,7 @@ import java.util.List;
 import com.in28minutes.powermock.DependencyStatic;
 
 /*interface Dependency {
-	List<Integer> retrieveAllStats();
+	List<Integer> retrieveAllStats(); Added this
 }*/
 
 public class SystemUnderTest {
